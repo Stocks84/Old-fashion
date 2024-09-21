@@ -5,4 +5,9 @@
     min-height: 100vh;
 }
 
+.Main {
+    padding-top: 81px;
+}
+
 /* Add more CSS later like hover and transitions */
+/* Take away text decoration etc for the links */

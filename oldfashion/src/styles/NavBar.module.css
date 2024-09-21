@@ -1,3 +1,13 @@
 .NavBar {
     background-color: aliceblue;
 }
+
+.NavLink {
+    padding: 5px;
+}
+
+.Active i {
+    color: red;
+}
+
+

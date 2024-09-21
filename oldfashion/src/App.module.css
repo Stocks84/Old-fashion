@@ -1,0 +1,8 @@
+/* Change background color to something smokey */ 
+.App {
+    font-family: "Baskervville", sans-serif;
+    background-color: #f8f8f8;
+    min-height: 100vh;
+}
+
+/* Add more CSS later like hover and transitions */

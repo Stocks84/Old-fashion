@@ -7,6 +7,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
+  // Turn Strict.mode off to solve reloading page problem!!!
   <React.StrictMode>
     <Router>
       <App />
